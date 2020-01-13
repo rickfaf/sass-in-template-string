@@ -1,0 +1,6 @@
+[submodule "typescript-styled-plugin"]
+	path = typescript-styled-plugin
+	url = git@github.com:microsoft/typescript-styled-plugin.git
+[submodule "vscode-extension"]
+	path = vscode-extension
+	url = git@github.com:styled-components/vscode-styled-components.git
